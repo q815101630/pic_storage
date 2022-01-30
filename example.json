@@ -63,6 +63,37 @@
         "female protagonist",
         "music"
       ]
+    },
+    {
+      "sources": [
+        "https://anilist.co/anime/138257",
+        "https://anime-planet.com/anime/calpis-hakkou-monogatari",
+        "https://kitsu.io/anime/41893",
+        "https://myanimelist.net/anime/38045",
+        "https://notify.moe/anime/NeI-pv0iR"
+      ],
+      "title": "\"Calpis\" Hakkou Monogatari",
+      "type": "ONA",
+      "episodes": 1,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "SUMMER",
+        "year": 2013
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1168/93236.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1168/93236t.jpg",
+      "synonyms": [
+        "\"Calpis\" Fermentation Story",
+        "Calpis: Hakkou Monogatari",
+        "「カルピス」発酵ものがたり"
+      ],
+      "relations": [],
+      "tags": [
+        "advertisement",
+        "food and beverage",
+        "historical",
+        "promotional"
+      ]
     }
   ]
 }
